@@ -10,6 +10,6 @@
 - `2_layers_torch.ipynb` - contains our implementation using PyTorch to fully connected net with 2 linear layers (for comparison)
 - `model_torch_fc_2_layers.pt` - previous model's (PyTorch) state and weights after training (for ease of use)
 
-## Task1 
+## Task2
 - `task2.ipynb` - contains the implementation of the various nets we used (transfer learning)
 - `models/` - the dir contains the models after retraining on the 102flowers dataset
